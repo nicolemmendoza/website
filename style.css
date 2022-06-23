@@ -1,0 +1,51 @@
+h1 {
+  text-alingn:  center;
+  font-size: 64px;
+  font-family: "cambria match"
+}
+
+h2 {
+  color: purple;
+  font-family: "consolas"
+}
+
+body {
+  background-color: lightblue;
+}
+
+ol{
+  border-width: 1px;
+  border-style: solid;
+  width: 400px
+}
+
+img {
+  height: 200px;
+  border-style: dashed;
+  border-width: 1px;
+  padding: 30px;
+  margin-left: 50px;
+}
+
+#mi_link {
+  font-weight: bold;
+  
+}
+
+iframe {
+  height: 200px
+  width: 20px
+}
+
+
+h3  {
+  color: red;
+  font-family: "consolas"
+}
+
+
+h3 {
+  text-alingn:  center;
+  font-size: 30px;
+  font-family: "cambria match"
+
